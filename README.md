@@ -1,6 +1,6 @@
 # sasikottaiyan
-# 💫 About Me:
-Hi, I'm **Sasi Kottaiyan S** 👨‍💻  <br>🎓 Computer Science Student  <br>💡 Passionate about DevOps and learning New tools and Skills <br><br>- 🌱 Currently learning: Python, SQL, AWS<br>- 💻 Interested in: Cloud , Linux and DevOps<br>- 🚀 Focused on improving Coding & project-building skills<br>- 📫 Reach me: [LinkedIn]( www.linkedin.com/in/sasikottaiyan)
+#  About Me:
+Hi, I'm **Sasi Kottaiyan S**   <br>🎓 Computer Science Student  <br> Passionate about DevOps and learning New tools and Skills <br><br>-  Currently learning: Python, SQL, AWS<br>-  Interested in: Cloud , Linux and DevOps<br>-  Focused on improving Coding & project-building skills<br>-  Reach me: [LinkedIn]( www.linkedin.com/in/sasikottaiyan)
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@ Hi, I'm **Sasi Kottaiyan S** 👨‍💻  <br>🎓 Computer Science Student  <br
 ![](https://nirzak-streak-stats.vercel.app/?user=Coughyyee&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coughyyee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
