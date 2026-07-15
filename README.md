@@ -1,6 +1,6 @@
 # sasikottaiyan
 #  About Me:
-Hi, I'm **Sasi Kottaiyan S**   <br> Computer Science Student  <br> Passionate about DevOps and Software Development, learning New tools and Skills <br><br>-  Currently learning: Python, SQL,Linux, AWS<br>-  Interested in:Development, Cloud , Linux and DevOps<br>-  Focused on improving Coding & project-building skills<br>-  Reach me: [LinkedIn]( www.linkedin.com/in/sasikottaiyan)
+Hi, I'm **Sasi Kottaiyan S**   <br> Computer Science Student  <br> Passionate about DevOps and Software Development, learning New tools and Skills <br><br>-  Currently learning: Python, SQL, Linux, AWS<br>-  Interested in: Development, Cloud , Linux and DevOps<br>-  Focused on improving Coding & project-building skills<br>-  Reach me: [LinkedIn]( www.linkedin.com/in/sasikottaiyan)
 
 
 ##  Socials:
